@@ -1,0 +1,17 @@
+.custom-bg{
+    background-color:  #2196f3!important;
+    
+}
+.admin .card{
+    border: 1px solid #2196f3;
+    
+}
+.admin .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+
+.form-control {
+
+}
